@@ -1,0 +1,680 @@
+/* phone icons */
+
+.phone-icon {
+    position: absolute;
+    width: 2.4em;
+    height: 2.4em;
+    background-color: #6ea4d9;
+    background-size: contain;
+    left: 0.15em;
+    top: 0.15em;
+}
+.image-apple {
+    background-image: url(logo/apple.gif);
+}
+.image-azurewave {
+    background-image: url(logo/azurewave.gif);
+}
+.image-compal {
+    background-image: url(logo/compal.gif);
+}
+.image-coolpad {
+    background-image: url(logo/coolpad.gif);
+}
+.image-fn-link {
+    background-image: url(logo/fn-link.gif);
+}
+.image-gemtek {
+    background-image: url(logo/gemtek.gif);
+}
+.image-gionee {
+    background-image: url(logo/gionee.gif);
+}
+.image-huawei {
+    background-image: url(logo/huawei.gif);
+}
+.image-haier {
+    background-image: url(logo/haier.gif);
+}
+.image-inpro {
+    background-image: url(logo/inpro.gif);
+}
+.image-lcfc {
+    background-image: url(logo/lcfc.gif);
+}
+.image-lemobile {
+    background-image: url(logo/lemobile.gif);
+}
+.image-linksys {
+    background-image: url(logo/linksys.gif);
+}
+.image-meizu {
+    background-image: url(logo/meizu.gif);
+}
+.image-mediatek {
+    background-image: url(logo/mediatek.gif);
+}
+.image-motorola {
+    background-image: url(logo/motorola.gif);
+}
+.image-nokia {
+    background-image: url(logo/nokia.gif);
+}
+.image-oppo {
+    background-image: url(logo/oppo.gif);
+}
+.image-qihoo360 {
+    background-image: url(logo/qihoo360.gif);
+}
+.image-realtek {
+    background-image: url(logo/realtek.gif);
+}
+.image-raspberrypi {
+    background-image: url(logo/raspberrypi.gif);
+}
+.image-shenqi {
+    background-image: url(logo/shenqi.gif);
+}
+.image-samsung {
+    background-image: url(logo/samsung.gif);
+}
+.image-wingtech {
+    background-image: url(logo/wingtech.gif);
+}
+.image-xiaomi {
+    background-image: url(logo/xiaomi.gif);
+}
+.image-zioncom {
+    background-image: url(logo/zioncom.gif);
+}
+.image-vivo {
+    background-image: url(logo/vivo.gif);
+}
+.image-zte {
+    background-image: url(logo/zte.gif);
+}
+.image-1verge {
+    background-image: url(logo/1verge.gif);
+}
+.image-afoundry {
+    background-image: url(logo/afoundry.gif);
+}
+.image-agere {
+    background-image: url(logo/agere.gif);
+}
+.image-airgo {
+    background-image: url(logo/airgo.gif);
+}
+.image-alcatel-lucent {
+    background-image: url(logo/alcatel-lucent.gif);
+}
+.image-amoi {
+    background-image: url(logo/amoi.gif);
+}
+.image-askey {
+    background-image: url(logo/askey.gif);
+}
+.image-asustek {
+    background-image: url(logo/asustek.gif);
+}
+.image-atheros {
+    background-image: url(logo/atheros.gif);
+}
+.image-bbk {
+    background-image: url(logo/bbk.gif);
+}
+.image-bilian {
+    background-image: url(logo/bilian.gif);
+}
+.image-bopengfa {
+    background-image: url(logo/bopengfa.gif);
+}
+.image-chinamobile {
+    background-image: url(logo/chinamobile.gif);
+}
+.image-cisco {
+    background-image: url(logo/cisco.gif);
+}
+.image-cybertan {
+    background-image: url(logo/cybertan.gif);
+}
+.image-dell {
+    background-image: url(logo/dell.gif);
+}
+.image-elcon {
+    background-image: url(logo/elcon.gif);
+}
+.image-elitegroup {
+    background-image: url(logo/elitegroup.gif);
+}
+.image-endesa {
+    background-image: url(logo/endesa.gif);
+}
+.image-fordmotor {
+    background-image: url(logo/fordmotor.gif);
+}
+.image-giga-byte {
+    background-image: url(logo/giga-byte.gif);
+}
+.image-hi-flying {
+    background-image: url(logo/hi-flying.gif);
+}
+.image-hisense {
+    background-image: url(logo/hisense.gif);
+}
+.image-hiwifi {
+    background-image: url(logo/hiwifi.gif);
+}
+.image-honhai {
+    background-image: url(logo/honhai.gif);
+}
+.image-hp {
+    background-image: url(logo/hp.gif);
+}
+.image-htc {
+    background-image: url(logo/htc.gif);
+}
+.image-huaqin {
+    background-image: url(logo/huaqin.gif);
+}
+.image-hunter {
+    background-image: url(logo/hunter.gif);
+}
+.image-ibm {
+    background-image: url(logo/ibm.gif);
+}
+.image-ieee {
+    background-image: url(logo/ieee.gif);
+}
+.image-intel {
+    background-image: url(logo/intel.gif);
+}
+.image-kezhonglong {
+    background-image: url(logo/kezhonglong.gif);
+}
+.image-lenovo {
+    background-image: url(logo/lenovo.gif);
+}
+.image-lg {
+    background-image: url(logo/lg.gif);
+}
+.image-longcheer {
+    background-image: url(logo/longcheer.gif);
+}
+.image-magnetimarelli {
+    background-image: url(logo/magnetimarelli.gif);
+}
+.image-matsushita {
+    background-image: url(logo/matsushita.gif);
+}
+.image-mediastreaming {
+    background-image: url(logo/mediastreaming.gif);
+}
+.image-mercury {
+    background-image: url(logo/mercury.gif);
+}
+.image-microsoft {
+    background-image: url(logo/microsoft.gif);
+}
+.image-mtm {
+    background-image: url(logo/mtm.gif);
+}
+.image-netgear {
+    background-image: url(logo/netgear.gif);
+}
+.image-ogemray {
+    background-image: url(logo/ogemray.gif);
+}
+.image-oneplus {
+    background-image: url(logo/oneplus.gif);
+}
+.image-proware {
+    background-image: url(logo/proware.gif);
+}
+.image-quanta {
+    background-image: url(logo/quanta.gif);
+}
+.image-raisecom {
+    background-image: url(logo/raisecom.gif);
+}
+.image-redpine {
+    background-image: url(logo/redpine.gif);
+}
+.image-rf {
+    background-image: url(logo/rf.gif);
+}
+.image-sangfei {
+    background-image: url(logo/sangfei.gif);
+}
+.image-siemens {
+    background-image: url(logo/siemens.gif);
+}
+.image-smartisan {
+    background-image: url(logo/smartisan.gif);
+}
+.image-sonos {
+    background-image: url(logo/sonos.gif);
+}
+.image-tct {
+    background-image: url(logo/tct.gif);
+}
+.image-tenda {
+    background-image: url(logo/tenda.gif);
+}
+.image-tps {
+    background-image: url(logo/tps.gif);
+}
+.image-usish {
+    background-image: url(logo/usish.gif);
+}
+.image-volans {
+    background-image: url(logo/volans.gif);
+}
+.image-xerox {
+    background-image: url(logo/xerox.gif);
+}
+.image-yulong {
+    background-image: url(logo/yulong.gif);
+}
+.image-zowee {
+    background-image: url(logo/zowee.gif);
+}
+.image-aruba {
+    background-image: url(logo/aruba.gif);
+}
+.image-avaya {
+    background-image: url(logo/avaya.gif);
+}
+.image-broadlink {
+    background-image: url(logo/broadlink.gif);
+}
+.image-chicony {
+    background-image: url(logo/chicony.gif);
+}
+.image-d-link {
+    background-image: url(logo/d-link.gif);
+}
+.image-epson {
+    background-image: url(logo/epson.gif);
+}
+.image-ereneben {
+    background-image: url(logo/ereneben.gif);
+}
+.image-fast {
+    background-image: url(logo/fast.gif);
+}
+.image-feixun {
+    background-image: url(logo/feixun.gif);
+}
+.image-h3c {
+    background-image: url(logo/h3c.gif);
+}
+.image-juniper {
+    background-image: url(logo/juniper.gif);
+}
+.image-letv {
+    background-image: url(logo/letv.gif);
+}
+.image-liteon {
+    background-image: url(logo/liteon.gif);
+}
+.image-murata {
+    background-image: url(logo/murata.gif);
+}
+.image-nintendo {
+    background-image: url(logo/nintendo.gif);
+}
+.image-schlumberger {
+    background-image: url(logo/schlumberger.gif);
+}
+.image-sony {
+    background-image: url(logo/sony.gif);
+}
+.image-star-net {
+    background-image: url(logo/star-net.gif);
+}
+.image-tp-link {
+    background-image: url(logo/tp-link.gif);
+}
+.image-wistron {
+    background-image: url(logo/wistron.gif);
+}
+/* background color */
+
+.color-unknown {
+    border: 1px solid #0b69d6;
+    color: #0b69d6 !important;
+}
+.color-1verge {
+    background-color: rgb(85, 99, 188);
+}
+.color-afoundry {
+    background-color: rgb(240, 124, 41);
+}
+.color-agere {
+    background-color: rgb(63, 10, 102);
+}
+.color-airgo {
+    background-color: rgb(252, 0, 0);
+}
+.color-alcatel-lucent {
+    background-color: rgb(99, 68, 138);
+}
+.color-amoi {
+    background-color: rgb(0, 130, 204);
+}
+.color-apple {
+    background-color: rgb(128, 128, 128);
+}
+.color-aruba {
+    background-color: rgb(245, 131, 34);
+}
+.color-askey {
+    background-color: rgb(255, 13, 1);
+}
+.color-asustek {
+    background-color: rgb(0, 73, 152);
+}
+.color-atheros {
+    background-color: rgb(1, 0, 0);
+}
+.color-avaya {
+    background-color: rgb(254, 0, 0);
+}
+.color-azurewave {
+    background-color: rgb(1, 81, 152);
+}
+.color-bbk {
+    background-color: rgb(21, 74, 154);
+}
+.color-bilian {
+    background-color: rgb(166, 206, 58);
+}
+.color-bopengfa {
+    background-color: rgb(109, 45, 95);
+}
+.color-broadlink {
+    background-color: rgb(0, 168, 233);
+}
+.color-chicony {
+    background-color: rgb(27, 63, 149);
+}
+.color-chinamobile {
+    background-color: rgb(0, 115, 192);
+}
+.color-cisco {
+    background-color: rgb(0, 44, 47);
+}
+.color-compal {
+    background-color: rgb(89, 202, 0);
+}
+.color-coolpad {
+    background-color: rgb(29, 21, 62);
+}
+.color-cybertan {
+    background-color: rgb(74, 174, 140);
+}
+.color-d-link {
+    background-color: rgb(36, 33, 26);
+}
+.color-dell {
+    background-color: rgb(21, 128, 198);
+}
+.color-elcon {
+    background-color: rgb(4, 53, 111);
+}
+.color-electronic{
+    background-color: rgb(51, 72, 235);
+}
+.color-elitegroup {
+    background-color: rgb(0, 149, 217);
+}
+.color-endesa {
+    background-color: rgb(0, 72, 255);
+}
+.color-epson {
+    background-color: rgb(11, 46, 130);
+}
+.color-ereneben {
+    background-color: rgb(0, 0, 0);
+}
+.color-fast {
+    background-color: rgb(0, 0, 0);
+}
+.color-feixun {
+    background-color: rgb(230, 124, 50);
+}
+.color-fn-link {
+    background-color: rgb(0, 104, 202);
+}
+.color-fordmotor {
+    background-color: rgb(0, 59, 129);
+}
+.color-gemtek {
+    background-color: rgb(0, 102, 203);
+}
+.color-giga-byte {
+    background-color: rgb(19, 0, 125);
+}
+.color-gionee {
+    background-color: rgb(254, 114, 0);
+}
+.color-h3c {
+    background-color: rgb(253, 1, 0);
+}
+.color-haier {
+    background-color: rgb(22, 143, 247);
+}
+.color-hi-flying {
+    background-color: rgb(0, 0, 0);
+}
+.color-hisense {
+    background-color: rgb(0, 155, 160);
+}
+.color-hiwifi {
+    background-color: rgb(0, 186, 255);
+}
+.color-honhai {
+    background-color: rgb(184, 75, 52);
+}
+.color-hp {
+    background-color: rgb(3, 151, 215);
+}
+.color-htc {
+    background-color: rgb(117, 192, 65);
+}
+.color-huaqin {
+    background-color: rgb(37, 69, 146);
+}
+.color-huawei {
+    background-color: rgb(254, 0, 0);
+}
+.color-hunter {
+    background-color: rgb(184, 17, 34);
+}
+.color-ibm {
+    background-color: rgb(24, 106, 180);
+}
+.color-ieee {
+    background-color: rgb(0, 81, 160);
+}
+.color-inpro {
+    background-color: rgb(0, 1, 0);
+}
+.color-intel {
+    background-color: rgb(9, 95, 170);
+}
+.color-juniper {
+    background-color: rgb(0, 0, 0);
+}
+.color-kezhonglong {
+    background-color: rgb(254, 0, 0);
+}
+.color-lcfc {
+    background-color: rgb(229, 21, 9);
+}
+.color-lemobile {
+    background-color: rgb(0, 129, 233);
+}
+.color-lenovo {
+    background-color: rgb(23, 91, 156);
+}
+.color-letv {
+    background-color: rgb(212, 22, 34);
+}
+.color-lg {
+    background-color: rgb(201, 19, 93);
+}
+.color-linksys {
+    background-color: rgb(40, 100, 154);
+}
+.color-liteon {
+    background-color: rgb(10, 92, 168);
+}
+.color-longcheer {
+    background-color: rgb(229, 28, 18);
+}
+.color-magnetimarelli {
+    background-color: rgb(29, 60, 124);
+}
+.color-matsushita {
+    background-color: rgb(0, 91, 168);
+}
+.color-mediastreaming {
+    background-color: rgb(255, 42, 12);
+}
+.color-mediatek {
+    background-color: rgb(234, 105, 22);
+}
+.color-meizu {
+    background-color: rgb(0, 168, 233);
+}
+.color-mercury {
+    background-color: rgb(214, 0, 0);
+}
+.color-microsoft {
+    background-color: rgb(248, 172, 1);
+}
+.color-motorola {
+    background-color: rgb(206, 0, 12);
+}
+.color-mtm {
+    background-color: rgb(35, 120, 174);
+}
+.color-murata {
+    background-color: rgb(245, 2, 48);
+}
+.color-netgear {
+    background-color: rgb(106, 15, 142);
+}
+.color-nintendo {
+    background-color: rgb(255, 1, 9);
+}
+.color-nokia {
+    background-color: rgb(15, 64, 156);
+}
+.color-ogemray {
+    background-color: rgb(1, 0, 0);
+}
+.color-oneplus {
+    background-color: rgb(239, 0, 32);
+}
+.color-oppo {
+    background-color: rgb(0, 143, 90);
+}
+.color-proware {
+    background-color: rgb(0, 97, 166);
+}
+.color-qihoo360 {
+    background-color: rgb(254, 213, 1);
+}
+.color-quanta {
+    background-color: rgb(190, 0, 44);
+}
+.color-raisecom {
+    background-color: rgb(0, 0, 2);
+}
+.color-raspberrypi {
+    background-color: rgb(187, 17, 66);
+}
+.color-realtek {
+    background-color: rgb(25, 81, 156);
+}
+.color-redpine {
+    background-color: rgb(205, 1, 0);
+}
+.color-rf {
+    background-color: rgb(232, 33, 38);
+}
+.color-samsung {
+    background-color: rgb(16, 33, 139);
+}
+.color-sangfei {
+    background-color: rgb(235, 152, 10);
+}
+.color-schlumberger {
+    background-color: rgb(0, 46, 108);
+}
+.color-shenqi {
+    background-color: rgb(0, 76, 146);
+}
+.color-siemens {
+    background-color: rgb(0, 144, 170);
+}
+.color-smartisan {
+    background-color: rgb(254, 0, 0);
+}
+.color-sonos {
+    background-color: rgb(25, 21, 22);
+}
+.color-sony {
+    background-color: rgb(0, 83, 153);
+}
+.color-star-net {
+    background-color: rgb(0, 77, 159);
+}
+.color-tct {
+    background-color: rgb(16, 66, 137);
+}
+.color-tenda {
+    background-color: rgb(1, 79, 151);
+}
+.color-tp-link {
+    background-color: rgb(1, 64, 143);
+}
+.color-tps {
+    background-color: rgb(180, 0, 11);
+}
+.color-usish {
+    background-color: rgb(9, 8, 102);
+}
+.color-vivo {
+    background-color: rgb(1, 137, 213);
+}
+.color-volans {
+    background-color: rgb(1, 73, 132);
+}
+.color-wingtech {
+    background-color: rgb(0, 1, 0);
+}
+.color-wistron {
+    background-color: rgb(0, 109, 140);
+}
+.color-xerox {
+    background-color: rgb(216, 34, 49);
+}
+.color-xiaomi {
+    background-color: rgb(245, 79, 31);
+}
+.color-yulong {
+    background-color: rgb(3, 58, 148);
+}
+.color-zioncom {
+    background-color: rgb(0, 0, 0);
+}
+.color-zowee {
+    background-color: rgb(0, 136, 208);
+}
+.color-zte {
+    background-color: rgb(0, 78, 163);
+}
