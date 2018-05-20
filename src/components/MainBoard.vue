@@ -4,7 +4,7 @@
             <h1 class="mui-title">WiFuick</h1>
         </header>
         <div class="mui-content">
-            <ul class="mui-table-view">
+            <ul class="mui-table-view main-board">
 				
 				<li class="mui-table-view-cell mui-collapse" :class="mainBoardTag=='basic' && 'mui-active'">
 					<a class="mui-navigate-right collapse-title" href="#" @click="mainBoardTag='basic'">基础功能</a>
@@ -151,16 +151,10 @@
 			}
         },
 		components: {},
-		watch: {
-			'$route' (to, from) {
-				console.log(to, from);
-			}
-		},
-		methods: {
-		},
-		mounted(){
-		},
-		destroyed(){
+		watch: {},
+		methods: {},
+		mounted() {},
+		destroyed() {
 			localStorage.setItem('MainBoardTag', this.mainBoardTag);
 		}
     }
@@ -168,16 +162,11 @@
 </script>
 
 <style>
-.icon-fix-style{
-    width: .858em;
-    height: .858em;
-    animation: none;
-}
-
 .mui-table-view-cell.mui-collapse .mui-collapse-content.no-padding{
 	padding: 0;
 }
-.no-padding > .mui-grid-view.mui-grid-9{
+
+.mui-table-view-cell.mui-collapse .no-padding > .mui-table-view.mui-grid-view.mui-grid-9{
 	padding: 0;
 	margin: 0;
 }
@@ -194,17 +183,20 @@
 .mui-table-view-cell.mui-active{
 	background-color: #fff;
 }
+.mui-table-view-cell .collapse-title{
+	border-top: 1px solid #ddd;
+}
 .mui-table-view-cell.mui-active .collapse-title{
 	border-top: 1px solid #ddd;
 	border-bottom: 1px solid #ddd;
 	background-color: #fafafa;
 }
-.mui-table-view-cell.mui-active:first-child .collapse-title{
+.mui-table-view-cell:first-child .collapse-title{
 	border-top-width: 0;
 }
-.mui-table-view-cell.mui-collapse .no-padding .mui-table-view-cell:after{
-	left: 0;
-	content: none;
+.main-board .mui-table-view-cell:after{
+	left: 0 !important;
+	content: none !important;
 }
 
 .wificon {
