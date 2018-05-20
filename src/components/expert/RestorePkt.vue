@@ -2,7 +2,7 @@
     <div>
         <header class="mui-bar mui-bar-nav">
 		    <a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left"></a>
-		    <h1 class="mui-title">信息共享</h1>
+		    <h1 class="mui-title">数据包还原</h1>
 		</header>
         <div class="mui-content">
             <h1>正在建设中……</h1>
