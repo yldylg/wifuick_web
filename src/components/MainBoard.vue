@@ -23,7 +23,7 @@
 								<div class="mui-media-body">抓包管理</div>
 							</a></li>
 							<li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#/basic/record-info">
-								<span class="wificon icon-record"></span>
+								<span class="wificon icon-attachment"></span>
 								<div class="mui-media-body">信息记录</div>
 							</a></li>
 							<li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#/basic/nic-mgr">
@@ -83,15 +83,11 @@
 								<div class="mui-media-body">私密数据</div>
 							</a></li>
 							<li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#/hacker/arp-spoof">
-								<span class="wificon icon-arp">
-									<span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span>
-								</span>
+								<span class="wificon icon-arp"></span>
 								<div class="mui-media-body">ARP欺骗</div>
 							</a></li>
 							<li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#/hacker/dns-spoof">
-								<span class="wificon icon-dns">
-									<span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span>
-								</span>
+								<span class="wificon icon-dns"></span>
 								<div class="mui-media-body">DNS欺骗</div>
 							</a></li>
 							<li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#/hacker/page-ctrl">

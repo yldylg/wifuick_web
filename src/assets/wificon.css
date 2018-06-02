@@ -20,125 +20,114 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.wificon.icon-settings2:before {
+.wificon.icon-cog:before {
   content: "\e994";
 }
 .wificon.icon-attachment:before {
   content: "\e9cd";
 }
-.wificon.icon-record:before {
-  content: "\ea54";
-}
-.wificon.icon-arp .path1:before {
-  content: "\e912";
-  color: rgb(0, 0, 0);
-}
-.wificon.icon-arp .path2:before {
-  content: "\e913";
-  margin-left: -0.875em;
-  color: rgb(66, 66, 66);
-}
-.wificon.icon-arp .path3:before {
-  content: "\e914";
-  margin-left: -0.875em;
-  color: rgb(133, 133, 133);
-}
-.wificon.icon-arp .path4:before {
-  content: "\e915";
-  margin-left: -0.875em;
-  color: rgb(196, 196, 196);
-}
-.wificon.icon-dns .path1:before {
-  content: "\e916";
-  color: rgb(0, 0, 0);
-}
-.wificon.icon-dns .path2:before {
-  content: "\e917";
-  margin-left: -0.875em;
-  color: rgb(66, 66, 66);
-}
-.wificon.icon-dns .path3:before {
-  content: "\e918";
-  margin-left: -0.875em;
-  color: rgb(133, 133, 133);
-}
-.wificon.icon-dns .path4:before {
-  content: "\e919";
-  margin-left: -0.875em;
-  color: rgb(196, 196, 196);
-}
-.wificon.icon-group:before {
-  content: "\e91a";
-}
-.wificon.icon-radar:before {
-  content: "\e91b";
-}
-.wificon.icon-router:before {
-  content: "\e91c";
-}
-.wificon.icon-searcher:before {
-  content: "\e91d";
-}
-.wificon.icon-wifilock:before {
-  content: "\e91e";
-}
-.wificon.icon-wifistop:before {
-  content: "\e91f";
-}
-.wificon.icon-capture:before {
-  content: "\e920";
-}
-.wificon.icon-analysis:before {
+.wificon.icon-signal-0:before {
   content: "\e900";
 }
-.wificon.icon-app:before {
+.wificon.icon-signal-1:before {
   content: "\e901";
 }
-.wificon.icon-chat:before {
+.wificon.icon-signal-2:before {
   content: "\e902";
 }
-.wificon.icon-cipher:before {
+.wificon.icon-signal-3:before {
   content: "\e903";
 }
-.wificon.icon-download:before {
+.wificon.icon-signal-4:before {
   content: "\e904";
 }
-.wificon.icon-killwifi:before {
+.wificon.icon-signal-5:before {
   content: "\e905";
 }
-.wificon.icon-location:before {
+.wificon.icon-group:before {
   content: "\e906";
 }
-.wificon.icon-team:before {
+.wificon.icon-radar:before {
   content: "\e907";
 }
-.wificon.icon-mobileap:before {
+.wificon.icon-router:before {
   content: "\e908";
 }
-.wificon.icon-ap:before {
+.wificon.icon-searcher:before {
   content: "\e909";
 }
-.wificon.icon-wifi:before {
+.wificon.icon-phone-wifi:before {
   content: "\e90a";
 }
-.wificon.icon-nic:before {
+.wificon.icon-wifilock:before {
   content: "\e90b";
 }
-.wificon.icon-page:before {
+.wificon.icon-wifistop:before {
   content: "\e90c";
 }
-.wificon.icon-private:before {
+.wificon.icon-antenna:before {
   content: "\e90d";
 }
-.wificon.icon-pkt:before {
+.wificon.icon-analysis:before {
   content: "\e90e";
 }
-.wificon.icon-settings:before {
+.wificon.icon-ap:before {
   content: "\e90f";
 }
-.wificon.icon-share:before {
+.wificon.icon-app:before {
   content: "\e910";
 }
-.wificon.icon-wifiscan:before {
+.wificon.icon-arp:before {
   content: "\e911";
+}
+.wificon.icon-capture:before {
+  content: "\e912";
+}
+.wificon.icon-chat:before {
+  content: "\e913";
+}
+.wificon.icon-cipher:before {
+  content: "\e914";
+}
+.wificon.icon-dns:before {
+  content: "\e915";
+}
+.wificon.icon-download:before {
+  content: "\e916";
+}
+.wificon.icon-killwifi:before {
+  content: "\e917";
+}
+.wificon.icon-location:before {
+  content: "\e918";
+}
+.wificon.icon-team:before {
+  content: "\e919";
+}
+.wificon.icon-mobileap:before {
+  content: "\e91a";
+}
+.wificon.icon-nic:before {
+  content: "\e91b";
+}
+.wificon.icon-page:before {
+  content: "\e91c";
+}
+.wificon.icon-private:before {
+  content: "\e91d";
+}
+.wificon.icon-pkt:before {
+  content: "\e91e";
+}
+.wificon.icon-settings:before {
+  content: "\e91f";
+}
+.wificon.icon-share:before {
+  content: "\e920";
+}
+.wificon.icon-wifi:before {
+  content: "\e921";
+}
+.wificon.icon-wifiscan:before {
+  content: "\e922";
 }
