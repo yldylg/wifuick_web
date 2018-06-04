@@ -64,7 +64,7 @@
 							</a></li>
 							<li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#/expert/restore-pkt">
 								<span class="wificon icon-pkt"></span>
-								<div class="mui-media-body">数据包还原</div>
+								<div class="mui-media-body">数据还原</div>
 							</a></li>
 						</ul> 
 					</div>
